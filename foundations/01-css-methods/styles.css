@@ -1,12 +1,7 @@
 div {
     background-color: red;
     color: white;
-<<<<<<< HEAD
     font-size: 32px;
     text-align: center;
-=======
-    font-size: px;
-    align-content: center;
->>>>>>> upstream/main
     font-weight: bold;
 }
