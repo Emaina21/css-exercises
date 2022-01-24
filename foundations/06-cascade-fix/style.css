@@ -16,14 +16,14 @@
   font-size: 22px;
 }
 
-.button confirm {
+.confirm {
   background: green;
   color: white;
   font-size: 20px;
   font-weight: bold;
 } 
 
-.button cancel {
+.cancel {
   background-color: #ffc0cb;
   color: black;
   font-size: 20px;
