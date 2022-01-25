@@ -1,15 +1,6 @@
-.body {
-  flex-wrap: wrap;
-  align-content: center;
-}
-
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
-}
-
-.small-para {
-  font-size: 12px;
 }
 
 .para {
@@ -37,4 +28,8 @@
 div.text {
   color: green;
   font-size: 28px;
+}
+
+.small-para {
+  font-size: 12px;
 }
